@@ -11,6 +11,7 @@ https://www.figma.com/file/ZFWx6O2rtPwoOQIKo3HNHf/Design-System---Ignite-Lab?nod
 - Vite
 - React JS
 - Typescript
+- Radix
 - Storybook
 - TailwindCSS
 - PostCSS
