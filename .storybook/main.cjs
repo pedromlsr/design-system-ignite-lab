@@ -15,11 +15,11 @@ module.exports = {
   "features": {
     "storyStoreV7": true
   },
-  viteFinal: (config, { configType }) => {
-    if (configType === 'PRODUCTION') {
-        config.base = '/design-system-ignite-lab/'
-    }
+//   viteFinal: (config, { configType }) => {
+//     if (configType === 'PRODUCTION') {
+//         config.base = '/design-system-ignite-lab/'
+//     }
 
-    return config
-  }
+//     return config
+//   }
 }
