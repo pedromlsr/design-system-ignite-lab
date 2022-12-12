@@ -11,8 +11,8 @@ https://www.figma.com/file/ZFWx6O2rtPwoOQIKo3HNHf/Design-System---Ignite-Lab?nod
 - Vite
 - React JS
 - Typescript
+- TailwindCSS
 - Radix
 - Storybook
-- TailwindCSS
-- PostCSS
 - Jest
+- Mock Service Worker
